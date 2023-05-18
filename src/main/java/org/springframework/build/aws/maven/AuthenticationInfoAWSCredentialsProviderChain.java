@@ -16,6 +16,7 @@
 
 package org.springframework.build.aws.maven;
 
+
 import com.amazonaws.auth.AWSCredentialsProviderChain;
 import com.amazonaws.auth.EnvironmentVariableCredentialsProvider;
 import com.amazonaws.auth.InstanceProfileCredentialsProvider;
